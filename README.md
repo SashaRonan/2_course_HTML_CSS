@@ -1,1 +1,1 @@
-# 2_course_YTML_CSS
+# 2_course_HTML_CSS
